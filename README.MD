@@ -5,6 +5,10 @@ A package manager based around git and inferred builds
 This project is aimed at reducing time developers spend with config files, fighting with build systems, and increase enjoyment writing C++. 
 It is inspired by `go get` and Laravel's CLI
 
+
+## Documentation (TO DO)
+Will be visible on pages site: [https://jrny6996.github.io/cxxpm/](https://jrny6996.github.io/cxxpm/)
+
 ## External Dependancies
 This project is based entrirely around git and swapping in specific C++ compilers be it `g++`, or `clang`
 
