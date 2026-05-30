@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # C (XX) Package Manager
 A package manager based around git and inferred builds
 
