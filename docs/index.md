@@ -3,7 +3,7 @@ layout: default
 ---
 
 # C (XX) Package Manager
-A package manager based around git and inferred builds
+A package manager for C++ (and C?) based around git and inferred builds
 
 ## Manifesto
 This project is aimed at reducing time developers spend with config files, fighting with build systems, and increase enjoyment writing C++. 
