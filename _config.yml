@@ -5,4 +5,5 @@ plugins:
 title: C (XX) Package Manager
 description: A package manager based around git and inferred builds
 
-source: docs
+url: https://jrny6996.github.io
+baseurl: /cxxpm
